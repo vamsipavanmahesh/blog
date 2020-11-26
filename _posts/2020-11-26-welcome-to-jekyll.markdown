@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some ruby array quirks you may not know about"
-date:   2020-10-28 11:39:40 +0530
+date:   2020-11-26 11:39:40 +0530
 categories: ruby
 ---
 
