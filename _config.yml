@@ -27,7 +27,8 @@ baseurl: "/blog"
 url: "https://vamsipavanmahesh.github.io"
 twitter_username: gvpmahesh
 github_username:  vamsipavanmahesh
-google_analytics: G-67BKZYP5VN
+google_analytics: UA-184020234-1
+
 
 # Build settings
 theme: minima
